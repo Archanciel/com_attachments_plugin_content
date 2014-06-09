@@ -37,7 +37,7 @@ div.attachmentsList tr.odd {
 }
 
 div.attachmentsList tr.even {
-    background-color: #F6F6F6;
+    background-color: transparent;
 }
 
 div.attachmentsList td {
@@ -112,9 +112,9 @@ div.addattach a img { vertical-align: text-bottom; }
 /* ---- Misc ----- */
 
 
-div.requestLogin h1 {
-    color: #135cae;
-    font-size: 130%;
+div.requestLogin {
+	color: #B7DD7E;
+    font-size: 25px;
     line-height: 130%;
 }
 
